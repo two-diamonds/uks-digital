@@ -5,10 +5,10 @@
     </div>
 
     <div class="col-lg-11">
-      <h1>usaha kesehatan sekolah digital</h1>
+      <h1>USAHA KESEHATAN SEKOLAH DIGITAL</h1>
       <address class="text-end">SMKN 4 TASIKMALAYA <br>
         JL.DEPOK,SUKAMENAK,PURBARATU</address>
-    </div>
+    </div>                                             
   </div>
 </template>
 
