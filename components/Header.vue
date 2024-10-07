@@ -1,7 +1,7 @@
 <template>
-  <div class="row p-3 bg-warning text-white m-0 ">
+  <div class="Navbar row p-3 bg-warning text-white m-0 ">
     <div class="col-lg-1">
-      <img src="../assets/img/logo-removebg-preview.png" alt="logo uks" />
+      <img src="../assets/img/Logo_PMR.png" alt="logo uks" />
     </div>
 
     <div class="col-lg-11">
@@ -13,7 +13,6 @@
 </template>
 
 <style scoped>
-
 
 img {
   width: 100px;

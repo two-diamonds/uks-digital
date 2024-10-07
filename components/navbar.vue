@@ -1,7 +1,7 @@
 <template>
   <div class="row p-3 text-white content">
     <div class="col-lg-1">
-      <img src="../assets/img/logo-removebg-preview.png" alt="logo pmr" />
+      <img src="../assets/img/Logo_PMR.png" alt="logo pmr" />
     </div>
 
     <div class="col-lg-11">

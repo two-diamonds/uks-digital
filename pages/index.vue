@@ -1,6 +1,6 @@
 <template>
-  <div class="container-fluid">
-    <div class="row ">
+  <div class="content">
+    <div class="row px-5">
       <div class="col-1 p-5">
         <NuxtLink class="btn btn-light">KEMBALI</NuxtLink>
       </div>
@@ -12,7 +12,7 @@
           </div>
         </div>
       </div>
-
+      
       <div class="row my-5 bg-pink justify-content-center">
         <div class="col">
           <div class="row justify-content-center">
@@ -20,9 +20,10 @@
               <NuxtLink to="/obat" class="btn btn-light">OBAT</NuxtLink>
             </div>
           </div>
-          <div class="row">
-            <div class="col my-4">
-              <NuxtLink to="/paracetamol" class="btn btn-light">paracetamol</NuxtLink>
+
+      <div class="row">
+        <div class="col my-4">
+            <NuxtLink to="/paracetamol" class="btn btn-light">paracetamol</NuxtLink>
             </div>
             <div class="col my-4">
               <NuxtLink class=" btn btn-light">betadin</NuxtLink>
@@ -92,9 +93,8 @@
 
 
 <style scoped>
-.container-fluid {
+.content {
   background-color: #F28787;
-  height: 100vh;
 }
 
 .bg-pink {
