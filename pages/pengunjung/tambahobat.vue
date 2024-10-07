@@ -5,25 +5,25 @@
         <h2 class="text-center my-4">TAMBAH OBAT</h2>
         <form>
           <div class="mb-3 row">
-              <label for="" class="col-sm-2 col-form-label">NAMA OBAT:</label>
+              <label for="" class="col-sm-2 col-form-label">NAMA OBAT :</label>
               <div class="col-sm-10">
                 <input type="text" class="form-control" id="">
               </div>
         </div>
         <div class="mb-3 row">
-              <label for="" class="col-sm-2 col-form-label">JENIS OBAT:</label>
+              <label for="" class="col-sm-2 col-form-label">JENIS OBAT :</label>
               <div class="col-sm-10">
                 <input type="text" class="form-control" id="">
               </div>
           </div>
           <div class="mb-3 row">
-              <label for="" class="col-sm-2 col-form-label">JUMLAH ALAT:</label>
+              <label for="" class="col-sm-2 col-form-label">JUMLAH ALAT :</label>
               <div class="col-sm-10">
                 <input type="text" class="form-control" id="">
               </div>
           </div>
           <div class="mb-3 row">
-              <label for="" class="col-sm-2 col-form-label">EXPIRED:</label>
+              <label for="" class="col-sm-2 col-form-label">EXPIRED :</label>
               <div class="col-sm-10">
                 <input type="text" class="form-control" id="">
               </div>

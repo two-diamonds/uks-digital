@@ -16,48 +16,48 @@
       <div class="row my-5 bg-pink justify-content-center">
         <div class="col">
           <div class="row justify-content-center">
-            <div class="col my-4">
-              <NuxtLink to="/obat" class="btn btn-light">OBAT</NuxtLink>
+            <div class="col text-center my-4">
+              <NuxtLink to="/obat" class="btn btn-light btn-lita">OBAT</NuxtLink>
             </div>
           </div>
 
       <div class="row">
-        <div class="col my-4">
-            <NuxtLink to="/paracetamol" class="btn btn-light">paracetamol</NuxtLink>
+        <div class="col  my-4">
+            <NuxtLink to="/paracetamol" class="btn btn-light btn-lita">paracetamol</NuxtLink>
             </div>
             <div class="col my-4">
-              <NuxtLink class=" btn btn-light">betadin</NuxtLink>
+              <NuxtLink class=" btn btn-light btn-lita">betadin</NuxtLink>
             </div>
           </div>
           <div class="row">
             <div class="col my-4">
-              <NuxtLink class=" btn btn-light">alkohol</NuxtLink>
+              <NuxtLink class=" btn btn-light btn-lita">alkohol</NuxtLink>
             </div>
             <div class="col my-4">
-              <NuxtLink class="btn btn-light">opistan</NuxtLink>
+              <NuxtLink class="btn btn-light btn-lita">opistan</NuxtLink>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="row">
-            <div class="col my-4">
-              <NuxtLink class="btn btn-light">ALAT</NuxtLink>
+            <div class="col text-center my-4">
+              <NuxtLink class="btn btn-light btn-lita">ALAT</NuxtLink>
             </div>
           </div>
           <kapas class="row">
-            <div class="col my-4">
-              <NuxtLink class="btn btn-light">hasanplas</NuxtLink>
+            <div class="col text-center my-4">
+              <NuxtLink class="btn btn-light btn-lita">hasanplas</NuxtLink>
             </div>
-            <div class="col my-4">
-              <NuxtLink class="btn btn-light">kapas</NuxtLink>
+            <div class="col text-center my-4">
+              <NuxtLink class="btn btn-light btn-lita">kapas</NuxtLink>
             </div>
           </kapas>
           <div class="row">
-            <div class="col my-4">
-              <NuxtLink class="btn btn-light">tensi</NuxtLink>
+            <div class="col text-center my-4">
+              <NuxtLink class="btn btn-light btn-lita">tensi</NuxtLink>
             </div>
-            <div class="col my-4">
-              <NuxtLink class="btn btn-light">oksigen</NuxtLink>
+            <div class="col text-center my-4">
+              <NuxtLink class="btn btn-light btn-lita">oksigen</NuxtLink>
             </div>
           </div>
         </div>
@@ -102,6 +102,10 @@
 }
 .bg-light {
   background-color: #d9d9d9 !important;
+}
+
+.btn-lita{
+  width: 10rem;
 }
 
 .contect{
