@@ -28,12 +28,10 @@
                 <input type="text" class="form-control" id="">
               </div>
           </div>
-          <div class="text-end">
-            <button type="submit" class="btn btn-white btn-lg rounded-5 px-5">KIRIM</button>       
-          </div>
-          
+          <div class="text-center">
+            <button type="submit" class="btn btn-white btn-lg rounded-5 px-5">TAMBAHKAN</button>       
+          </div> 
         </form>
-        <img src="../assets/img/obat.png">
       </div>
     </div>
   </div>

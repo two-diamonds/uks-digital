@@ -1,13 +1,3 @@
-<!-- <template>
-  <div>
-    <h1>betadin</h1>
-  </div>
-</template>
-
-<script setup>
-
-</script> -->
-
 <template>
   <div class="container-fluid content">
     <div class="row">
@@ -17,25 +7,25 @@
           <div class="mb-3 row">
               <label for="" class="col-sm-2 col-form-label">NAMA OBAT :</label>
               <div class="col-sm-10">
-                <input type="text" class="form-control fw-bold" id="" placeholder="Betadin" disabled>
+                <input type="text" class="form-control fw-bold" id="" placeholder="Opistan" disabled>
               </div>
         </div>
         <div class="mb-3 row">
               <label for="" class="col-sm-2 col-form-label">MANFAAT :</label>
               <div class="col-sm-10">
-                <textarea class="form-control fw-bold" id="" placeholder="mencegah pertumbuhan dan membunuh kuman penyebab infeksi." disabled></textarea>
+                <textarea class="form-control fw-bold" id="" placeholder="Meredakan nyeri ringan hingga sedang, seperti sakit gigi, nyeri haid (dismenore), sakit kepala, nyeri akibat cedera, atau nyeri pascaoperasi" disabled></textarea>
               </div>
           </div>
           <div class="mb-3 row">
               <label for="" class="col-sm-2 col-form-label">JENIS OBAT :</label>
               <div class="col-sm-10">
-                <input type="text" class="form-control fw-bold" id="" placeholder="antiseptik" disabled>
+                <input type="text" class="form-control fw-bold" id="" placeholder="Tablet" disabled>
               </div>
           </div>
           <div class="mb-3 row">
               <label for="" class="col-sm-2 col-form-label">JUMLAH OBAT :</label>
               <div class="col-sm-10">
-                <input type="text" class="form-control fw-bold" id="" placeholder="1" disabled>
+                <input type="text" class="form-control fw-bold" id="" placeholder="10" disabled>
               </div>
           </div>
           <div class="text-end">

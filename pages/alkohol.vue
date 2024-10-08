@@ -1,13 +1,3 @@
-<!-- <template>
-  <div>
-    <h1>betadin</h1>
-  </div>
-</template>
-
-<script setup>
-
-</script> -->
-
 <template>
   <div class="container-fluid content">
     <div class="row">
@@ -17,13 +7,13 @@
           <div class="mb-3 row">
               <label for="" class="col-sm-2 col-form-label">NAMA OBAT :</label>
               <div class="col-sm-10">
-                <input type="text" class="form-control fw-bold" id="" placeholder="Betadin" disabled>
+                <input type="text" class="form-control fw-bold" id="" placeholder="Alkohol" disabled>
               </div>
         </div>
         <div class="mb-3 row">
               <label for="" class="col-sm-2 col-form-label">MANFAAT :</label>
               <div class="col-sm-10">
-                <textarea class="form-control fw-bold" id="" placeholder="mencegah pertumbuhan dan membunuh kuman penyebab infeksi." disabled></textarea>
+                <textarea class="form-control fw-bold" id="" placeholder="sebagai antiseptik (membunuh atau menghambat pertumbuhan mikroorganisme), untuk membersihkan luka dan pembersih alat-alat medis." disabled></textarea>
               </div>
           </div>
           <div class="mb-3 row">

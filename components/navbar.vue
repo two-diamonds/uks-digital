@@ -6,8 +6,8 @@
 
     <div class="col-lg-11">
       <h1>USAHA KESEHATAN SEKOLAH DIGITAL</h1>
-      <address class="text-end">SMKN 4 TASIKMALAYA <br>
-        JL.DEPOK,SUKAMENAK,PURBARATU</address>
+      <address class="text-end">SMKN 4 Tasikmalaya <br>
+        Jl.depok,sukamenak,purbaratu</address>
     </div>                                             
   </div>
 </template>
